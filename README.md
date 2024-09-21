@@ -1,6 +1,6 @@
 ## **AI-Powered Web Scraper**
 
-**A very eazy website for extracting data from websites using AI.**
+A very eazy webApp for extracting data from websites using AI.
 
 ### **How it Works:**
 
