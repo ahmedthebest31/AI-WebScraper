@@ -44,7 +44,7 @@ press Scrape Website   button
 inter your  prompt.
 
 **Note:** This website uses llama3 AI model to parce the data and required [Ollama](https://ollama.com/) on your system.
-You can easily change it to use any other llm like Google Gemini or chat gpt, take a look to  parse.py file.  
+You can easily change it to use any other llm like Google Gemini or chat gpt, take a look to [parse.py](parse.py) file.  
 
 ## Contributing
 Contributions to this project are welcome! If you find a bug, have an idea for an improvement, or want to contribute in any other way, please feel free to open an issue or submit a pull request.
