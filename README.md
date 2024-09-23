@@ -33,10 +33,21 @@ A very eazy webApp for extracting data from websites using AI.
 
 1. Clone the repository.
 2. Install required libraries (requirements.txt).
-3. Run "python main.py", inter the URL and your prompt in the website.
+3, download [Chrome Driver](https://developer.chrome.com/docs/chromedriver/downloads) for your OS and copy it to the root of the project directory. 
+3. Run "streamlit run main.py" in your termenal   
+4, The site will open in  google chrome.
+
+ 
+inter the URL in the textbox 
+
+
+press Scrape Website   button 
+
+
+inter your  prompt.
 
 **Note:** This website uses llama3 AI model to parce the data and required [Ollama](https://ollama.com/) on your system.
-You can easily change it to use any other llm like Google Gemini or chat gpt
+You can easily change it to use any other llm like Google Gemini or chat gpt, take a look to  (parse.py)[parse.py]  
 
 ## Contributing
 Contributions to this project are welcome! If you find a bug, have an idea for an improvement, or want to contribute in any other way, please feel free to open an issue or submit a pull request.
